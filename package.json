@@ -4,7 +4,8 @@
   "description": "un servidor de ilse",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon server/server.js"
+    "test": "nodemon server/server.js",
+    "start": "node server/server.js"
   },
   "author": "jaazix",
   "license": "ISC",
